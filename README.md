@@ -1,3 +1,3 @@
 # C4-Seagram-Kern
 
-A project for thinkfuls tpmi
+A repo for Cohort 4 testing
